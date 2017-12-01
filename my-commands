@@ -1,0 +1,10 @@
+ 2656  git init
+ 2657  git add index.html assets/styles.css
+ 2658  git status
+ 2659  git commit -m "added index and styles"
+ 2660  git remote add origin https://github.com/jasenmichael/git-practice-2.git
+ 2661  git push -u origin master
+ 2662  git add -A
+ 2663  git commit -m "brain workout caption"
+ 2664  git push -u origin master
+ 2665  git pull
